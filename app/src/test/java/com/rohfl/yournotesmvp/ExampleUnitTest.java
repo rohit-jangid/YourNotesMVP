@@ -1,4 +1,4 @@
-package com.rohfl.yournotes;
+package com.rohfl.yournotesmvp;
 
 import org.junit.Test;
 
